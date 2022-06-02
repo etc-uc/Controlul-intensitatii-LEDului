@@ -4,7 +4,7 @@ Proiect Aplicații cu Microcontrolere
 ## Hardware:
 
 - ATMEGA328P
-- Sursă(5v)
+- Sursă (5V)
 - AVR-ISP PROGRAMMER
 - 2x 100uF condensator
 - 1x LED 3W
