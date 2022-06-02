@@ -1,30 +1,6 @@
-# Controlul-intensit-ii-LEDului
-Proiect Aplicații cu Microcontrolere
+# Controlul-intensitatii-LEDului prin PWM
+Chihaia Rares-Vlad
 
-## Hardware:
 
-- ATMEGA328P
-- Sursă (5V)
-- AVR-ISP PROGRAMMER
-- 2x 100uF condensator
-- 1x LED 3W
-- rezistență 100Ω, 2x rezistență 1KΩ
-- 2 x Buton
-- Tranzistor BD682
+In acest proiect vom folosi una dintre caracteristicile ATmega328P pentru a regla luminozitatea LED-ului de 3W. Metoda folosita pentru reglarea intensitatii LED-ului este PWM (Pulse Width Modulation - Modulatia latimii impulsurilor). PWM este o tehnica în care latimea impulsului este modificata prin mentinerea constanta a frecventei. Tehnica este folosita astăzi in multe sisteme de control.
 
-## Software:
-
-- Microchip Studio for AVR® and SAM
-- AVR Bunr-O-Mat
-
-## Breadboard
-
-![Image](Breadboard.jpeg)
-
-## PCB Layout:
-
-![Image](PCB.jpg)
-
-## Schematic:
-
-![Image](Schematic.jpg)
